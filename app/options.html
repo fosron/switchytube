@@ -10,7 +10,15 @@
     <!-- endbuild -->
   </head>
   <body>
-    <h1>'Allo, 'Allo!</h1>
+    <h1>Options</h1>
+
+    <form>
+        <label for="debug">Debug</label>
+        <select name="debug" id="debug">
+          <option value="false">Disabled</option>
+          <option value="true">Enabled</option>
+        </select>
+    </form>
 
     <!-- build:js scripts/options-vendor.js -->
     <!-- bower:js -->

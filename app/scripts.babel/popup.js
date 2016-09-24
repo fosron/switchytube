@@ -1,3 +1,5 @@
-'use strict';
+(function () {
+  var div = document.getElementById('debug');
 
-console.log('\'Allo \'Allo! Popup');
+  div.innerHTML = div.innerHTML + ' debug ';
+});
