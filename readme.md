@@ -1,5 +1,5 @@
 # Switchytube
-## automatically switch to next youtube tab when video stops playing
+Automagically switch to next youtube tab when video stops playing
 
 * README coming soon *
 
